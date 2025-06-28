@@ -2,6 +2,7 @@
 title: "英文期刊"
 collection: 出版物
 category: manuscripts
+#date: 
 ---
 
 - （1）Wang, B.*, Zheng, Y., Han, X., Kong, L., Xiao, G., Xiao, Z., & Chen, S. (in press). A systematic literature review on integrating AI-powered smart glasses into digital health management for proactive healthcare solutions. npj Digital Medicine. (2025.5.12 Accepted, SCI, JCRQ1, IF=12.4, Nature子刊，全球电子医学顶尖期刊，第一作者&通讯作者).
