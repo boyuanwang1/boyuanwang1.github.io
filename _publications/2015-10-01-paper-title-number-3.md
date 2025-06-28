@@ -31,9 +31,8 @@ category: manuscripts
 - (22)Q. Zhou, W.-L. Wu, C.-Q. Lin, H. Liang, C.-Y. Long, F. Lv, J.-L. Pan, Z.-T. Liu, B.-Y. Wang, X.-F. Yang, X.-L. Deng, and A.-M. Jiang, “Occurrence and dietary exposure assessment of pentachlorophenol in livestock, poultry, and aquatic foods marketed in Guangdong Province, China: Based on food monitoring data from 2015 to 2018, ” Journal of Food Science, vol. 86, no. 3, pp. 1132 – 1143, Mar. 2021. (SCI).
 - （23）Wang, Boyuan, Hai Lin, and Shenglin Xia. "Design of an AI Health Risk Assessment System for Dietary Hygiene of Key Groups Based on IoT Wearable Devices." Journal of Artificial Intelligence Practice 5.3 (2022): 25-31.
 
----
+
 中文核心期刊论文
----
 
 - (1)王博远,陈夏威,李笑,刘杨,黄国贤,李炳烈,陈子龙,岑应健,罗毅俊.基于区域卫生信息平台的食源性疾病预警系统设计[J].中国食品卫生杂志,2019,31(4):379-384.
 - (2)王博远,苏宝愉,陈夏威, 肖革新. 食品安全风险监测信息平台设计[J]. 医学信息杂志,2021,42(03):73-77.
