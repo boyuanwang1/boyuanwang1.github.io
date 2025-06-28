@@ -1,14 +1,22 @@
 ---
-title: "Paper Title Number 1"
-collection: publications
+title: "中文核心期刊"
+collection: 出版物
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+
+- (1)王博远,陈夏威,李笑,刘杨,黄国贤,李炳烈,陈子龙,岑应健,罗毅俊.基于区域卫生信息平台的食源性疾病预警系统设计[J].中国食品卫生杂志,2019,31(4):379-384.
+- (2)王博远,苏宝愉,陈夏威, 肖革新. 食品安全风险监测信息平台设计[J]. 医学信息杂志,2021,42(03):73-77.
+- (3)王博远,郭云昌, 肖革新,刘杨. 省市两级食源性疾病主动挖掘信息平台框架设计 [J]. 食品安全质量检测学 报,2020,11(24):9457-9462.
+- (4)王博远,刘杨, 肖革新,陈夏威,何彬洪,黎卓章,刘佳慧. 基于“健康中山区域平台 ”的食源性疾病信息监测挖掘体系设计研究[J]. 食品安全质量检测学报,2019,10(20):7064-7070.
+- (5)王博远,岑应健, 肖革新,郭丽霞,刘杨,李笑. 基于Getis-Ord Gi*方法的中山市粮食及其制品食品安全空间分析[J]. 食品安全质量检测学报,2019,10(08):2425-2428.
+- (6)王博远,陈夏威,岑应健, 肖革新,刘杨,李笑. 2015～2018 年中山市食用油、油脂及其制品监督抽检结果分 析及空间分布规律研究[J]. 食品安全质量检测学报,2019,10(04):1093-1099.
+- (7)陈夏威,王博远（通讯作者）,岑应健,李笑. 基于机器学习的食品安全风险预警研究现状与展望[J]. 医学 信息学杂志,2019,40(03):56-61.
+- (8)王博远, 肖革新. 广东省医疗卫生资源的空间分布特征及相关性分析[J]. 中国卫生信息管理杂 志,2018,15(06):694-699. （市第七届自然科学优秀论文（三等奖）-市科学技术协会）
+- (9)王博远, 肖革新,郭丽霞,岑应健,刘杨,陈夏威,李笑. 基于多源数据的食品安全时空预警信息化体系设计研究[J]. 食品安全质量检测学报,2018,9(24):6551-6556.
+- (10)李炳烈,王博远（通讯作者）,钱峰,陈雪琴,罗乐,涂济,岑晓梅,黎卓章. 基于地级市区域卫生信息平台的疾病主动监测系统设计[J]. 医学信息学杂志,2018,39(09):16-19.
+- (11)吴衍嘉,刘新霞,李雷,王博远,王德全. 2013―2018 年中山市手足口病时空聚集性分析[J]. 中华疾病控制 杂志,2021,25(09):1078-1084.
+- (12)罗乐,方悦怡,王曼,王博远,毛云霞. 医院华支睾吸虫病监测与空间插值分析的联合应用[J]. 热带医学杂 志,2020,20(10):1352-1354+1399.
+- (13)谈晔,张瀚中,李映来,黄莉莉,陈语嫣,王博远. 中山市镇级疾病预防控制中心能力建设现状分析[J]. 华南预防医学,2019,45(06):522-524+555.
+- (14)刘绮明,袁展红,吴灿权,王博远,郑悦康,仇绮琳. 2012—2018 年中山市集中空调冷却塔水嗜肺军团菌分子 分型及分布特征[J]. 公共卫生与预防医学,2020,31(03):84-89.
+- (15)陈夏威,蔡春生,何彬洪,曹舜珊,郭艳,郑悦康,区金结,王博远. 一起粪肠球菌引起食源性疾病暴发流行病学分析及分子溯源调查[J]. 中国食品卫生杂志,2020,32(01):99-102.
+
