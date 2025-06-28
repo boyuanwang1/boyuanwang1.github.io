@@ -5,7 +5,7 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
-======
+---
 
 特聘教授、主任、人工智能博士、高级工程师
 - 上海复旦大学科研机构（地方合作机构）
