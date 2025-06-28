@@ -14,10 +14,10 @@ main:
   - title: "教育"
     url: /talks/    
 
-  - title: "研究方向"
+  - title: "研究团队"
     url: /teaching/    
     
-  - title: "研究团队"
+  - title: "研究方向"
     url: /portfolio/
         
   #- title: "Blog Posts"
