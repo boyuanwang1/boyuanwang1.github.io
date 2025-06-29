@@ -1,7 +1,7 @@
 ---
 title: "廉嘉琪"
 collection: 研究成员
-category: manuscripts
+#category: manuscripts
 #date: 
 ---
 廉嘉琪，天津医科大学本科生在读。（1）：1篇JCR一区SCI论文同行评审阶段（第一作者） （2）：2项实用新型专利 （3）：1项发明专利进入公开实审阶段 （4）：3项软件著作权.
