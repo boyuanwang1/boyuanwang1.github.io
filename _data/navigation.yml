@@ -11,14 +11,15 @@ main:
   - title: "出版物"
     url: /publications/
 
+  - title: "研究方向"
+    url: /portfolio/
+
+  - title: "研究团队"
+    url: /teaching/  
+    
   - title: "教育"
     url: /talks/    
 
-  - title: "研究团队"
-    url: /teaching/    
-    
-  - title: "研究方向"
-    url: /portfolio/
         
   #- title: "Blog Posts"
   #  url: /year-archive/
