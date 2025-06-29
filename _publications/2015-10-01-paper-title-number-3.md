@@ -1,7 +1,7 @@
 ---
 title: "英文期刊"
-collection: 出版物
-category: manuscripts
+#collection: 出版物
+#category: manuscripts
 #date: 
 ---
 
