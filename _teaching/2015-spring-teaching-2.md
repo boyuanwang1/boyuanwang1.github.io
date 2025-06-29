@@ -4,12 +4,12 @@ collection: 研究成员
 category: manuscripts
 #date: 
 ---
-廉嘉琪，天津医科大学本科生在读。1篇JCR一区SCI论文同行评审阶段 2项实用新型专利 1项发明专利进入公开实审阶段 3项软件著作权.
+廉嘉琪，天津医科大学本科生在读。1篇JCR一区SCI论文同行评审阶段（第一作者） 2项实用新型专利 1项发明专利进入公开实审阶段 3项软件著作权.
 
 创新成果
 -
 论文成果
- -  一篇JCR一区SCI论文同行评审阶段，论文名字：Medical AI evolves towards smart collaborative healthcare ecosystems
+ -  一篇JCR一区SCI论文同行评审阶段，论文名字：Medical AI evolves towards smart collaborative healthcare ecosystems 第一作者
 
  两项实用新型专利：
  - 一种多功能保存注射装置 独立专利权人 独立专利发明人 （专利号：CN202420473554.2）
