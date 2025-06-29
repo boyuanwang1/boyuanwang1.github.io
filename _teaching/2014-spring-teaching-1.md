@@ -1,20 +1,21 @@
 ---
-title: "Teaching experience 1"
-collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+title: "李溶洋"
+collection: 研究成员
+category: manuscripts
+#date: 
 ---
+李溶洋，天北京工商大学研究生（统计学）在读。
 
-This is a description of a teaching experience. You can use markdown like any other post.
+创新成果
 
-Heading 1
-======
+论文成果
 
-Heading 2
-======
+ -  
 
-Heading 3
-======
+研究兴趣
+
+电子邮箱：
+
+个人学术网址：
+
+
