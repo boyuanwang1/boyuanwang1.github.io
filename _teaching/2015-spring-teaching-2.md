@@ -1,5 +1,5 @@
 ---
-title: "Jiaqi Lian"
+title: "Lian Jia Qi"
 #collection: 研究成员
 #category: manuscripts
 #date: 
