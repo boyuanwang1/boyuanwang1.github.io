@@ -1,7 +1,7 @@
 ---
 title: "李溶洋"
-collection: 研究成员
-category: manuscripts
+#collection: 研究成员
+#category: manuscripts
 #date: 
 ---
 李溶洋，北京工商大学研究生（统计学）在读。
