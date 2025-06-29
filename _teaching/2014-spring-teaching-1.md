@@ -4,7 +4,7 @@ title: "Rongyang Li"
 #category: manuscripts
 #date: 
 ---
-李溶洋，北京工商大学，统计学专业，研究方向：。
+Rongyang Li，北京工商大学，统计学专业，研究方向：。
 -
 创新成果
  - 1.：
