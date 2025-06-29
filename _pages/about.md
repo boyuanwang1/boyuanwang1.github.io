@@ -26,7 +26,7 @@ redirect_from:
 
 教育背景
 ======
-- 2024.12-2025.4：City University of Hong Kong 人工智能与生物医学交叉研究 博士后研究院
+- 2024.12-2025.4：City University of Hong Kong 人工智能与生物医学交叉研究 博士后研究员
 - 2021.9-2024.8：Macau University of Science and Technology 计算机科学系 人工智能博士
 - 2007.9-2009.7：北京交通大学 软件学院 软件工程硕士
                  比利时鲁汶工程学院 数字媒体 E-media 硕士—联合培养
