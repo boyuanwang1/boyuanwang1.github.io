@@ -1,10 +1,10 @@
 ---
-title: "Rongyang Li"
+title: "Li Rong Yang"
 #collection: 研究成员
 #category: manuscripts
 #date: 
 ---
-Rongyang Li，北京工商大学，统计学专业，研究方向：。
+Li Rong Yang，北京工商大学，统计学专业，研究方向：。
 -
 创新成果
  - 1.：
