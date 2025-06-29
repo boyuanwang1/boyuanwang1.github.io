@@ -7,7 +7,7 @@ category: manuscripts
 廉嘉琪，天津医科大学本科生在读。1篇JCR一区SCI论文同行评审阶段 2项实用新型专利 1项发明专利进入公开实审阶段 3项软件著作权.
 
 创新成果
-
+-
 论文成果
  -  一篇JCR一区SCI论文同行评审阶段，论文名字：Medical AI evolves towards smart collaborative healthcare ecosystems
 
