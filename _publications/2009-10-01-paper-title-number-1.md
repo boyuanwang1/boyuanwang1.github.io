@@ -1,6 +1,6 @@
 ---
 title: "中文核心期刊"
-#collection: 出版物
+collection: 出版物
 #category: manuscripts
 #date:
 ---
