@@ -4,7 +4,7 @@ title: "Jiaqi Lian"
 #category: manuscripts
 #date: 
 ---
-Jiaqi Lian，天津医科大学,研究方向医工交叉（医疗AI）。（1）：1篇JCR一区SCI论文同行评审阶段（第一作者） （2）：2项实用新型专利 （3）：1项发明专利进入公开实审阶段 （4）：3项软件著作权.
+Lian Jiq Qi，天津医科大学,研究方向医工交叉（医疗AI）。（1）：1篇JCR一区SCI论文同行评审阶段（第一作者） （2）：2项实用新型专利 （3）：1项发明专利进入公开实审阶段 （4）：3项软件著作权.
 -
 创新成果
  - 一篇JCR一区SCI论文同行评审阶段，论文名字：Medical AI evolves towards smart collaborative healthcare ecosystems 第一作者
