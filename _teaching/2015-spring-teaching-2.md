@@ -1,20 +1,31 @@
 ---
-title: "Teaching experience 2"
-collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+title: "廉嘉琪"
+collection: 研究成员
+category: manuscripts
+#date: 
 ---
+天津医科大学本科生在读 
 
-This is a description of a teaching experience. You can use markdown like any other post.
+创新成果
 
-Heading 1
-======
+论文成果
+ -  一篇JCR一区SCI论文同行评审阶段，论文名字：Medical AI evolves towards smart collaborative healthcare ecosystems
 
-Heading 2
-======
+ 两项实用新型专利：
+ - 一种多功能保存注射装置 独立专利权人 独立专利发明人 （专利号：CN202420473554.2）
+ - 一种多功能辅助助立护套结构 独立专利权人 独立专利发明人 （专利号：CN202420234486.4）
 
-Heading 3
-======
+ 一项发明专利进入公开实审阶段：
+ - 一种用于调节太阳能发电板角度的装置（AI太阳能发电板） 独立专利权人 独立专利发明人 （专利号：CN202411897221.3）
+
+  三项软件著作权：
+  - 医院智能医疗器械故障检测平台V1.0 独立著作权人 （登记号：2024SR0494691）
+  - 医院病人数据采集管理系统V1.0 独立著作权人 （登记号：2024SR0534926）
+  - 医院病历共享管理服务系统V1.0 （登记号：2024SR1149779）
+
+ 研究兴趣：
+医工交叉领域
+
+个人学术网址：
+
+
