@@ -5,35 +5,21 @@ layout: compress
 {% include base_path %}
 
 <!doctype html>
-<html lang="{{ site.locale | slice: 0,2 }}" class="no-js"{% if site.site_theme == "dark" %} data-theme="dark"{% endif %}>
+<html lang="{{ site.locale | slice: 0,2 }}" class="no-js{% if site.site_theme == 'dark' %} data-theme="dark"{% endif %}">
   <head>
     {% include head.html %}
     {% include head/custom.html %}
-    <script data-goatcounter="https://lianjiaqi.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
+    <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
   </head>
 
   <body>
-
     {% include browser-upgrade.html %}
     {% include masthead.html %}
 
-    <div id="goatcounter-visitor" style="margin: 20px 0; font-size: 16px; color: #333; font-weight: 600;">
-  加载中...
-</div>
-<script>
-const goatcounterUrl = 'https://lianjiaqi.goatcounter.com/count.json';
+    <div id="busuanzi-container" style="margin: 20px 0; font-size: 16px; color: #333; font-weight: 600;">
+      已有 <span id="busuanzi-value-site-pv"></span> 位访客
+    </div>
 
-fetch(goatcounterUrl)
-  .then(response => response.json())
-  .then(data => {
-    document.getElementById('goatcounter-visitor').innerHTML = 
-      `已有 <span style="color: #ff5722;">${data.count}</span> 位访客`;
-  })
-  .catch(error => {
-    document.getElementById('goatcounter-visitor').innerHTML = '统计加载失败';
-  });
-</script>
-    
     {{ content }}
 
     <div class="page__footer">
@@ -44,6 +30,6 @@ fetch(goatcounterUrl)
     </div>
 
     {% include scripts.html %}
-
   </body>
 </html>
+
