@@ -9,7 +9,7 @@ layout: compress
   <head>
     {% include head.html %}
     {% include head/custom.html %}
-    <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+    <script async src="https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
   </head>
 
   <body>
@@ -19,6 +19,7 @@ layout: compress
     <div id="busuanzi-container" style="margin: 20px 0; font-size: 16px; color: #333; font-weight: 600;">
       已有 <span id="busuanzi-value-site-pv"></span> 位访客
     </div>
+    <div>本文阅读量：<span id="busuanzi-value-page-pv"></span></div>
 
     {{ content }}
 
@@ -29,7 +30,20 @@ layout: compress
       </footer>
     </div>
 
+    <script>
+      function initBusuanzi() {
+        if (typeof busuanzi !== 'undefined') {
+          document.getElementById('busuanzi-value-site-pv').innerText = busuanzi.sitePV();
+          document.getElementById('busuanzi-value-page-pv').innerText = busuanzi.pagePV();
+        } else {
+          setTimeout(initBusuanzi, 300);
+        }
+      }
+      initBusuanzi();
+    </script>
+
     {% include scripts.html %}
   </body>
 </html>
+
 
